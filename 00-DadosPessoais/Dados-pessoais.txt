@@ -1,16 +1,16 @@
 
-Nome Completo: 		
-Data nascimento: 	
-CPF: 			
+Nome Completo: 	Marcelo de Souza Bernardo	
+Data nascimento: 02/09/1998	
+CPF: 149.731.487-32-92 			
 Telefone Casa: 
-Celular: 
-E-mail_1: 
-E-mail_2: 
-Endereço:	
-Rua: 		
-Bairro:			
-Cidade:		
-CEP:		
+Celular: 22 9 97128075
+E-mail_1: Marcelosouzabernardo@hotmail.com
+E-mail_2: Marcelobernardo@lenep.uenf.br
+Endereço: Condomínio Mirante das Águas
+Rua: Oséas Rodrigues Santa Rita	
+Bairro:	São Marcos		
+Cidade:	Macaé	
+CEP: 27930805	
  
 Meu lattes já está preenchido e atualizado. O link para ele é: 
  
